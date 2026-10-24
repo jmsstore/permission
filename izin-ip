@@ -1,1 +1,5 @@
+# CUTSAPAY - daftar izin IP
+# Format: ### Nama YYYY-MM-DD IP-VPS
+# Tambahkan satu izin per baris di bawah ini.
+
 cutsapay 2027-10-13 192.98.822.20
